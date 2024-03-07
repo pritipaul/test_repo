@@ -113,7 +113,7 @@ def main():
 
         st.success("Health Metrics Details Successfully Submitted!")
         icon_size = 0
-        st_button('Level-2', 'https://www.buymeacoffee.com/dataprofessor/', 'Next Level', icon_size)
+        st_button('Level-2', 'https://soubhik2002.github.io/FYP-2023-24/level/indexlevel7.html', 'Next Level', icon_size)
 
 
 if __name__ == '__main__':
